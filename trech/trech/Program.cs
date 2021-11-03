@@ -1,4 +1,5 @@
 ﻿using System;
+using trechLib;
 
 namespace trech
 {
@@ -6,7 +7,13 @@ namespace trech
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Trech!");
+
+            // Theoretical implementation
+            var universe = new trechLib.System();
+
+            var hydrogenAtom = new trechLib.System();
+            hydrogenAtom.Dimensions.AddDimension("system").Value = "atom";
         }
     }
 }
