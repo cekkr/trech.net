@@ -8,5 +8,6 @@ namespace trechLib
         public Dimensions Dimensions = new Dimensions();
         public List<System> Systems = new List<System>();
         public List<Link> Links = new List<Link>();
+        public List<Unit> Units = new List<Unit>();
     }
 }
