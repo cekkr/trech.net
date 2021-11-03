@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trech", "trech\trech.csproj", "{F560A721-B0D7-4612-B2A0-5DEEAF29225D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trechLib", "trechLib\trechLib.csproj", "{7870157B-40C3-4CB0-A7BD-89C306B0A33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F560A721-B0D7-4612-B2A0-5DEEAF29225D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F560A721-B0D7-4612-B2A0-5DEEAF29225D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F560A721-B0D7-4612-B2A0-5DEEAF29225D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F560A721-B0D7-4612-B2A0-5DEEAF29225D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7870157B-40C3-4CB0-A7BD-89C306B0A33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7870157B-40C3-4CB0-A7BD-89C306B0A33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7870157B-40C3-4CB0-A7BD-89C306B0A33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7870157B-40C3-4CB0-A7BD-89C306B0A33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79EFE435-376F-41B5-B164-02412008AA59}
+	EndGlobalSection
+EndGlobal
